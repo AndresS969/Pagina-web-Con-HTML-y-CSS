@@ -9,4 +9,23 @@ p {
 
 ul{
   color:brown
+ 
+}
+
+.lista-ordenada{
+  color:chartreuse
+}
+body {
+  background-color:white;
+}
+
+h2 {
+  font-size: 35px;
+
+}
+
+ol,
+ul,
+p {
+  font-size: 30px;
 }
