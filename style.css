@@ -37,3 +37,17 @@ p {
 .principal {
     width: 500px;
 }
+
+.python{
+  width: 260px;
+  border-width: 3px;
+  border-color: darkblue;
+  border-style: solid;
+}
+
+.bordes-redondeados{
+  width: 300px;
+  border-width: 3px;
+  
+  border-radius: 80px;
+}
